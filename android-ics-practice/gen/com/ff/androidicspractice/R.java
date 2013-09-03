@@ -925,7 +925,8 @@ containing a value of this type.
         public static final int abs__textfield_searchview_holo_light=0x7f02006c;
         public static final int abs__textfield_searchview_right_holo_dark=0x7f02006d;
         public static final int abs__textfield_searchview_right_holo_light=0x7f02006e;
-        public static final int ic_launcher=0x7f02006f;
+        public static final int ic_action_refresh=0x7f02006f;
+        public static final int ic_launcher=0x7f020070;
     }
     public static final class id {
         public static final int abs__action_bar=0x7f040022;
@@ -968,12 +969,14 @@ containing a value of this type.
         public static final int abs__title=0x7f04001b;
         public static final int abs__titleDivider=0x7f04001c;
         public static final int abs__up=0x7f04000b;
-        public static final int action_settings=0x7f040033;
         public static final int disableHome=0x7f040009;
         public static final int edit_query=0x7f040027;
         public static final int homeAsUp=0x7f040006;
         public static final int listMode=0x7f040002;
+        public static final int menu_load=0x7f040035;
+        public static final int menu_settings=0x7f040034;
         public static final int normal=0x7f040001;
+        public static final int progressBar2=0x7f040033;
         public static final int showCustom=0x7f040008;
         public static final int showHome=0x7f040005;
         public static final int showTitle=0x7f040007;
@@ -1008,9 +1011,11 @@ containing a value of this type.
         public static final int abs__search_dropdown_item_icons_2line=0x7f030014;
         public static final int abs__search_view=0x7f030015;
         public static final int abs__simple_dropdown_hint=0x7f030016;
-        public static final int activity_main=0x7f030017;
-        public static final int sherlock_spinner_dropdown_item=0x7f030018;
-        public static final int sherlock_spinner_item=0x7f030019;
+        public static final int activity_home=0x7f030017;
+        public static final int home=0x7f030018;
+        public static final int progressbar=0x7f030019;
+        public static final int sherlock_spinner_dropdown_item=0x7f03001a;
+        public static final int sherlock_spinner_item=0x7f03001b;
     }
     public static final class menu {
         public static final int main=0x7f0b0000;
@@ -1181,6 +1186,7 @@ containing a value of this type.
         public static final int Widget_Sherlock_SearchAutoCompleteTextView=0x7f0a0034;
         public static final int Widget_Sherlock_Spinner_DropDown_ActionBar=0x7f0a0024;
         public static final int Widget_Sherlock_TextView_SpinnerItem=0x7f0a0032;
+        public static final int ics_theme=0x7f0a005b;
     }
     public static final class styleable {
         /**  Attributes used to style the Action Bar. 
